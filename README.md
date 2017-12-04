@@ -1,9 +1,17 @@
-[![Build Status](https://travis-ci.org/brenden/node-webshot.svg?branch=master)](https://travis-ci.org/brenden/node-webshot)
 # node-webshot
+[![npm version](https://badge.fury.io/node-webshot.svg)](https://www.npmjs.com/package/node-webshot)
+[![Download Count](http://img.shields.io/npm/dm/node-webshot.svg?style=flat)](https://www.npmjs.com/package/node-webshot)
 
+
+Customize from https://github.com/brenden/node-webshot/blob/master/package.json
 Webshot provides a simple API for taking webpage screenshots. The module is a
 light wrapper around PhantomJS, which utilizes WebKit to perform the page
 rendering.
+
+```javascript
+npm install node-webshot
+```
+
 
 ## Examples
 
@@ -272,7 +280,7 @@ that the [imagemagick CLI tools](http://www.imagemagick.org) be installed.
 ```
 (The MIT License)
 
-Copyright (c) 2012 Brenden Kokoszka
+Copyright (c) 2017 Ching-Ching Yeh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the 'Software'), to deal in
