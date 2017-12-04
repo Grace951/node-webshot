@@ -1,9 +1,9 @@
 # node-webshot
-[![npm version](https://badge.fury.io/node-webshot.svg)](https://www.npmjs.com/package/node-webshot)
+[![npm version](https://badge.fury.io/js/node-webshot.svg)](https://www.npmjs.com/package/node-webshot)
 [![Download Count](http://img.shields.io/npm/dm/node-webshot.svg?style=flat)](https://www.npmjs.com/package/node-webshot)
 
 
-Customize from https://github.com/brenden/node-webshot/blob/master/package.json
+Customize from https://github.com/brenden/node-webshot/
 Webshot provides a simple API for taking webpage screenshots. The module is a
 light wrapper around PhantomJS, which utilizes WebKit to perform the page
 rendering.
